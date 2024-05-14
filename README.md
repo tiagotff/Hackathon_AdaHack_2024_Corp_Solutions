@@ -1,4 +1,6 @@
 # Hackathon Ada-Hack 2024
+
+# Categoria: Dados
  
 ## Case: A Jornada da Corp Solutions rumo à diversidade e inclusão
 
