@@ -49,16 +49,20 @@ corporação. 
 **Formato do modelo de trabalho:** A Corp Solutions adota um modelo de trabalho flexível, que inclui
 opções de trabalho remoto e horários flexíveis.
 
-**Desafio:** Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e inovadores para desenvolverem soluções que ajudem a empresa a alcançar seu objetivo de aumentar a diversidade e a inclusão em sua equipe. As equipes terão acesso aos dados da empresa e aos recursos necessários para desenvolverem soluções eficazes e impactantes.
+## O Desafio
 
-**Objetivos do case:**
+Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e inovadores para desenvolverem soluções que ajudem a empresa a alcançar seu objetivo de aumentar a diversidade e a inclusão em sua equipe. As equipes terão acesso aos dados da empresa e aos recursos necessários para desenvolverem soluções eficazes e impactantes.
+
+### Objetivos do case
+
 - Identificar oportunidades de aumentar a diversidade na Corp Solutions.
 - Desenvolver soluções criativas, aplicáveis e inovadoras para promover a inclusão e equidade no ambiente de trabalho.
 - Contribuir para a construção de uma cultura organizacional diversa, inclusiva e sustentável.
 
 
-**CONTEÚDO**
+## Solução final
 
+Compreende:
 
 1. #### **Notebook**
 Documentação completa, incluíndo análises, estatísticas e referências.
@@ -69,8 +73,7 @@ Material de apoio para o pitch de apresentação.
 1. #### **Dashboard Interativo**
 Dashboard interativo contendo base do IBGE para complemento dos dados.
 
-Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
+## Notas
+1. Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
+2. Projeto em equipe, desenvolvidor por: Camylla Oliveira, Iago Mansur, Kelly Maria, Leonildo Linck, Letícia Costa, Matheus Reis e Tiago Faustino.
 
-Projeto em grupo: Camylla Oliveira, Iago Mansur, Kelly Maria, Leonildo Linck, Letícia Costa, Matheus Reis e Tiago Faustino.
-
-_Este projeto foi desenvolvido com base em conceitos aprendidos durante o curso, visando simplicidade e eficiência. Para eventuais dúvidas ou melhorias, sinta-se à vontade para entrar em contato._
