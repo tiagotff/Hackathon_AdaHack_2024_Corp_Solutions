@@ -3,9 +3,11 @@
 ## Categoria: Dados
 ## Case: A Jornada da Corp Solutions rumo à diversidade e inclusão
 
-Neste projeto, em equipe, tivemos oportunidade de aplicar conceitos Análise de Dados, como importação, limpeza, visualização, e análise de negócio, criando uma documentação completa e repleta de insights. Este é um desafio prático e envolvente que nos permitiu desenvolver habilidades adquiridas ao longo de nossa formação:
+Neste projeto, em equipe, tivemos oportunidade de aplicar conhecimentos da área de dados como entendimento do contexto do negócio, extração dos dados, limpeza, visualização, e análise dos dados, criando uma documentação completa e repleta de insights. 
 
-## Case do Hackathon
+Este é um desafio prático, que permitiu o desenvolvimento de habilidades importantes como pensamento crítico, resolução de problemas, trabalho em equipe, gestão de proejtos e desenvolvimento de soluções anaíticas.
+
+## O case
 
 Nos últimos anos, temos testemunhado uma mudança significativa no mundo organizacional em
 direção à valorização da diversidade e inclusão. À medida que a sociedade evolui, as empresas
