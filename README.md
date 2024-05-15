@@ -63,11 +63,13 @@ Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e i
 
 Compreende:
 
-- **Notebook**: Totalmente documentado, com ricas análises, estatística aplicada e as devidas referências.
+- **[Análise de Dados completa](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/Ada_hack_notebook.ipynb)**: Totalmente documentado, com ricas análises, estatística aplicada e as devidas referências.
 
-- **[Apresentação](..)**: Material de apoio para o pitch de apresentação.
+- **[Apresentação da equipe](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/Ada_hack_apresentacao.pptx)**: Material de apoio para o pitch de apresentação.
 
-- **Dashboard Interativo**: Dashboard interativo contendo base do IBGE para complemento dos dados.
+- **[Dashboard Interativo - arquivo pbix](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/Ada_hack_dashboard.pbix)**: Dashboard interativo contendo base do IBGE para complemento dos dados.
+
+- **Dados do IBGE: [script](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Censo_Demografico_IBGE_2022.ipynb) e [dados extraídos](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Tabela%209606.xlsx)**
 
 ## Notas
 1. Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
