@@ -4,7 +4,7 @@
 
 Neste projeto, em equipe, tivemos a oportunidade de aplicar diversos conhecimentos da área de dados, como entendimento do contexto do negócio, extração dos dados, limpeza, visualização e análise dos dados, realizando uma entrega completa e repleta de insights, num projeto de ponta a ponta.
 
-Este é um desafio prático, que permitiu o desenvolvimento de habilidades importantes como pensamento crítico, resolução de problemas, trabalho em equipe, gestão de projetos e desenvolvimento de soluções anaíticas.
+Este é um desafio prático, que permitiu o desenvolvimento de habilidades importantes como pensamento crítico, resolução de problemas, trabalho em equipe, gestão de projetos e desenvolvimento de soluções anaíticas com alto valor agregado.
 
 ## Case: A Jornada da Corp Solutions rumo à diversidade e inclusão
 
