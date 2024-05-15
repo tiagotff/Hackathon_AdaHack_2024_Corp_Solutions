@@ -53,7 +53,7 @@ opções de trabalho remoto e horários flexíveis.
 
 Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e inovadores para desenvolverem soluções que ajudem a empresa a alcançar seu objetivo de aumentar a diversidade e a inclusão em sua equipe. As equipes terão acesso aos dados da empresa e aos recursos necessários para desenvolverem soluções eficazes e impactantes.
 
-### Objetivos do case
+## Objetivos do case
 
 - Identificar oportunidades de aumentar a diversidade na Corp Solutions.
 - Desenvolver soluções criativas, aplicáveis e inovadoras para promover a inclusão e equidade no ambiente de trabalho.
@@ -64,14 +64,11 @@ Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e i
 
 Compreende:
 
-- #### **Notebook**
-Documentação completa, incluíndo análises, estatísticas e referências.
+- #### **Notebook**: Documentação completa, incluíndo análises, estatísticas e referências.
 
-- #### **Apresentação**
-Material de apoio para o pitch de apresentação.
+- #### **Apresentação**: Material de apoio para o pitch de apresentação.
 
-- #### **Dashboard Interativo**
-Dashboard interativo contendo base do IBGE para complemento dos dados.
+- #### **Dashboard Interativo**: Dashboard interativo contendo base do IBGE para complemento dos dados.
 
 ## Notas
 1. Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
