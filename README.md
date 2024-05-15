@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hackathon Ada-Hack 2024
 
-## Categoria: Dados
+## Categoria: Dados 🎲🎲
 
 Neste projeto, em equipe, tivemos a oportunidade de aplicar diversos conhecimentos da área de dados, como entendimento do contexto do negócio, extração dos dados, limpeza, visualização e análise dos dados, realizando uma entrega completa e repleta de insights, num projeto de ponta a ponta.
 
