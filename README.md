@@ -64,13 +64,13 @@ Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e i
 
 Compreende:
 
-1. #### **Notebook**
+- #### **Notebook**
 Documentação completa, incluíndo análises, estatísticas e referências.
 
-1. #### **Apresentação**
+- #### **Apresentação**
 Material de apoio para o pitch de apresentação.
 
-1. #### **Dashboard Interativo**
+- #### **Dashboard Interativo**
 Dashboard interativo contendo base do IBGE para complemento dos dados.
 
 ## Notas
