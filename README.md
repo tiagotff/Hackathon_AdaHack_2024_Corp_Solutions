@@ -2,7 +2,7 @@
 
 ## Categoria: Dados
 
-Neste projeto, em equipe, tivemos oportunidade de aplicar conhecimentos diversos conhecimentos da área de dados, como entendimento do contexto do negócio, extração dos dados, limpeza, visualização, e análise dos dados, criando uma documentação completa e repleta de insights. 
+Neste projeto, em equipe, tivemos a oportunidade de aplicar conhecimentos diversos conhecimentos da área de dados, como entendimento do contexto do negócio, extração dos dados, limpeza, visualização, e análise dos dados, criando uma documentação completa e repleta de insights. 
 
 Este é um desafio prático, que permitiu o desenvolvimento de habilidades importantes como pensamento crítico, resolução de problemas, trabalho em equipe, gestão de proejtos e desenvolvimento de soluções anaíticas.
 
