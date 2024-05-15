@@ -69,7 +69,7 @@ Compreende:
 
 - **[Dashboard Interativo - arquivo pbix](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/Ada_hack_dashboard.pbix)**: Dashboard interativo contendo base do IBGE para complemento dos dados.
 
-- **Dados do IBGE: [script](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Censo_Demografico_IBGE_2022.ipynb) e [dados extraídos](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Tabela%209606.xlsx)**
+- **Dados do IBGE: [script - em aprimoramento](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Censo_Demografico_IBGE_2022.ipynb) e [dados extraídos pela plataforma da instituição](https://github.com/tiagotff/Hackathon_Ada_Tech_2024_Corp_Solutions/blob/main/ibge/Tabela%209606.xlsx)**
 
 ## Notas
 1. Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
