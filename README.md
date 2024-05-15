@@ -63,7 +63,7 @@ Diante desse cenário, a Corp Solution convoca equipes de talentos criativos e i
 
 Compreende:
 
-- **Notebook**: Documentação completa, incluíndo análises, estatísticas e referências.
+- **Notebook**: Totalmente documentado, com ricas análises, estatística aplicada e as devidas referências.
 
 - **Apresentação**: Material de apoio para o pitch de apresentação.
 
