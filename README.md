@@ -31,6 +31,8 @@ inovadores para RH. Recentemente, a empresa recebeu um aporte de uma grande corp
 Unidos, impulsionando sua expansão e reforçando seu compromisso em investir em iniciativas de
 diversidade.
 
+## Um pouco mais sobre a Corp Solutions
+
 **Setor de Atuação:** Atua no setor de tecnologia para recursos humanos, oferecendo uma variedade de
 produtos e serviços para ajudar as empresas a melhorar sua cultura organizacional, práticas de
 recrutamento e retenção de talentos diversos.
