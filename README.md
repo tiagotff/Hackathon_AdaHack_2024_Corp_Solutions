@@ -1,4 +1,4 @@
-# Hackathon Ada-Hack 2024
+# 👩🏻‍💻 Hackathon Ada-Hack 2024
 
 ## Categoria: Dados
 
