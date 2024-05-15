@@ -65,7 +65,7 @@ Compreende:
 
 - **Notebook**: Totalmente documentado, com ricas análises, estatística aplicada e as devidas referências.
 
-- **Apresentação**: Material de apoio para o pitch de apresentação.
+- **[Apresentação](..)**: Material de apoio para o pitch de apresentação.
 
 - **Dashboard Interativo**: Dashboard interativo contendo base do IBGE para complemento dos dados.
 
