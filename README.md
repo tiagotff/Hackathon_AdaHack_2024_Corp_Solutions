@@ -73,3 +73,5 @@ Compreende:
 1. Certifique-se de ter os módulos necessários instalados para a execução correta do programa.
 2. Projeto em equipe, desenvolvidor por: Camylla Oliveira, Iago Mansur, Kelly Maria, Leonildo Linck, Letícia Costa, Matheus Reis e Tiago Faustino.
 
+## Resultado final
+🏆 Fomos os vencedores na categoria dados, conquistando o 1º lugar 🥇. Publiquei a respeito no LinkedIn. Confira [aqui](https://www.linkedin.com/posts/tiagofaustino91_dados-diversidadeeinclusaeto-hackathon-activity-7187660920163090432-j2Vs?utm_source=share&utm_medium=member_desktop).
