@@ -1,13 +1,12 @@
 # Hackathon Ada-Hack 2024
 
 ## Categoria: Dados
-## Case: A Jornada da Corp Solutions rumo à diversidade e inclusão
 
 Neste projeto, em equipe, tivemos oportunidade de aplicar conhecimentos da área de dados como entendimento do contexto do negócio, extração dos dados, limpeza, visualização, e análise dos dados, criando uma documentação completa e repleta de insights. 
 
 Este é um desafio prático, que permitiu o desenvolvimento de habilidades importantes como pensamento crítico, resolução de problemas, trabalho em equipe, gestão de proejtos e desenvolvimento de soluções anaíticas.
 
-## O case
+## Case: A Jornada da Corp Solutions rumo à diversidade e inclusão
 
 Nos últimos anos, temos testemunhado uma mudança significativa no mundo organizacional em
 direção à valorização da diversidade e inclusão. À medida que a sociedade evolui, as empresas
